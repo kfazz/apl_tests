@@ -1,0 +1,12 @@
+a.out
+test2
+*.apl
+*.asm
+*.elf
+*.img
+*.lk
+*.lst
+*.map
+*.noi
+*.rel
+*.sym
